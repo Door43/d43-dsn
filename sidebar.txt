@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dsn:home|Door43 (dsn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dsn|d43-dsn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dsn/archive/master.zip|d43-dsn.zip]]
+
+**Recent Changes**
+{{changes>ns = dsn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dsn|Ethnologue data]]
+
